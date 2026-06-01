@@ -36,5 +36,5 @@ The actual change is documentation polish.
 
 ---
 
-Signed-off-by: Pal Lakatos-Toth <lakatos.toth.pal@gmail.com>
-Signed-off-by: Copilot <223556219+Copilot@users.noreply.github.com>
+Signed-off-by: @pallakatos
+Signed-off-by: @Copilot

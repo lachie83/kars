@@ -107,5 +107,5 @@ context), not from the CRD itself. Router never logs bearer values
 
 ## 6. Sign-offs
 
-Signed-off-by: Pal Lakatos <pallakatos@microsoft.com>
-Signed-off-by: Copilot <223556219+Copilot@users.noreply.github.com>
+Signed-off-by: @pallakatos
+Signed-off-by: @Copilot

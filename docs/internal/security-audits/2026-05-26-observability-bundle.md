@@ -134,5 +134,5 @@ controller code paths that emit the policy are unchanged.
 
 ## 7. Sign-offs
 
-Signed-off-by: Pal Lakatos <pallakatos@microsoft.com>
-Signed-off-by: Copilot <223556219+Copilot@users.noreply.github.com>
+Signed-off-by: @pallakatos
+Signed-off-by: @Copilot

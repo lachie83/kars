@@ -88,5 +88,5 @@ No new RBAC requirements. No new outbound network paths.
 
 ---
 
-Signed-off-by: pallakatos <pallakatos@microsoft.com>
-Signed-off-by: GitHub Copilot <223556219+Copilot@users.noreply.github.com>
+Signed-off-by: @pallakatos
+Signed-off-by: @Copilot

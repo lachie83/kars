@@ -131,5 +131,5 @@ None. The threats this image protects against are unchanged:
 
 ---
 
-Signed-off-by: pallakatos <pallakatos@microsoft.com>
-Signed-off-by: GitHub Copilot <223556219+Copilot@users.noreply.github.com>
+Signed-off-by: @pallakatos
+Signed-off-by: @Copilot
